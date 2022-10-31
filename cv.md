@@ -14,3 +14,13 @@ I currently work as a front-end mentor assistant in Najot ta'lim (one of the pop
 
 ### Objective 
 Already set a challenging goal by planning to get offer in one of the faang companies in 5 years. So that, I can not stop putting in hard work for the upcoming years till my goal is achieved. I believe, besides hard work, being in the same team with experienced software engineers and learning from them will be a great boost.
+
+
+### Projects
+   * Developed front-end of the project [Yamo](https://yamo.uz) using **Next js** and **Sass** which is internal system for 3D model making. I mainly contributed to      the design of the web application. Most of the time middle developers were in charge of writing functions and integreting web app with backend. By reviewing        their code I learnt a lot of things.
+   * Contributed to the financial project's landing page called [Comfi](https://comfi.app/). Used Sass **modules**.
+
+
+### Education
+- _**Business management** at Warsaw University of Business School (2019, oct - 2021, june)_
+- _**Front-end web development** at Najot ta'lim_ (2021, oct - 2022, march) 
