@@ -24,3 +24,15 @@ Already set a challenging goal by planning to get offer in one of the faang comp
 ### Education
 - _**Business management** at Warsaw University of Business School (2019, oct - 2021, june)_
 - _**Front-end web development** at Najot ta'lim_ (2021, oct - 2022, march) 
+
+
+### Learning english
+In total I spent 1.5 years to learn english from a tutor. So, took an IELTS test in 2019, the score was 5.5.
+
+
+
+
+### Experience
+- **_Dizipro (2022, march - 2022, aug)_**
+   * While working there I contributed to the process of developing more than 3 web apllications. Learnt and used technologies like: **Next js**, 
+     **Styled-components** and **Material-ui** in projects.
