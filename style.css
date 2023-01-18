@@ -269,9 +269,10 @@ section {
 }
 
 .experience__list {
-  display: grid;
-  /* grid-template-columns: repeat(auto-fill, minmax(50%, 1fr)); */
-  grid-template-columns: repeat(2, 63% 40%);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: space-between;
 }
 .experience__item {
   width: 400px;
