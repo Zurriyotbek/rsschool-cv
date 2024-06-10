@@ -24,8 +24,8 @@ body {
   height: 100%;
   font-size: 16px;
   line-height: 1.5;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-color: var(--color-white);
 }
 
@@ -79,7 +79,7 @@ section {
 }
 
 .nav__link::after {
-  content: "";
+  content: '';
   position: absolute;
   display: inline-block;
   bottom: -3px;
@@ -187,7 +187,7 @@ section {
 }
 
 .contact__top__right > h2::before {
-  content: "";
+  content: '';
   margin-right: 10px;
   display: inline-block;
   width: 25px;
@@ -216,7 +216,7 @@ section {
   color: var(--color-white);
 }
 .contact__top__right ul li > a::before {
-  content: "";
+  content: '';
   margin-right: 10px;
   display: inline-block;
   width: 25px;
@@ -257,7 +257,7 @@ section {
 }
 
 .experience__container > h2::before {
-  content: "";
+  content: '';
   margin-right: 10px;
   display: inline-block;
   width: 25px;
@@ -319,7 +319,7 @@ section {
 }
 
 .education__container > h2::before {
-  content: "";
+  content: '';
   margin-right: 10px;
   display: inline-block;
   width: 25px;
@@ -372,7 +372,7 @@ section {
 }
 
 .skills__bottom > h2::before {
-  content: "";
+  content: '';
   margin-right: 10px;
   display: inline-block;
   width: 25px;
@@ -464,7 +464,7 @@ section {
   transition: all 0.3s;
 }
 .card__body a::after {
-  content: "";
+  content: '';
   margin-left: 10px;
   display: inline-block;
   width: 0px;
